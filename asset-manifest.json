@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactHwMon/static/css/main.1c7acd1f.chunk.css",
+    "main.js": "/reactHwMon/static/js/main.a53af1fa.chunk.js",
+    "main.js.map": "/reactHwMon/static/js/main.a53af1fa.chunk.js.map",
+    "runtime-main.js": "/reactHwMon/static/js/runtime-main.4dc15553.js",
+    "runtime-main.js.map": "/reactHwMon/static/js/runtime-main.4dc15553.js.map",
+    "static/js/2.70e3ab64.chunk.js": "/reactHwMon/static/js/2.70e3ab64.chunk.js",
+    "static/js/2.70e3ab64.chunk.js.map": "/reactHwMon/static/js/2.70e3ab64.chunk.js.map",
+    "index.html": "/reactHwMon/index.html",
+    "precache-manifest.0f4313898b9dd238789d9ca97bcf5912.js": "/reactHwMon/precache-manifest.0f4313898b9dd238789d9ca97bcf5912.js",
+    "service-worker.js": "/reactHwMon/service-worker.js",
+    "static/css/main.1c7acd1f.chunk.css.map": "/reactHwMon/static/css/main.1c7acd1f.chunk.css.map",
+    "static/js/2.70e3ab64.chunk.js.LICENSE.txt": "/reactHwMon/static/js/2.70e3ab64.chunk.js.LICENSE.txt",
+    "static/media/pokeball.png": "/reactHwMon/static/media/pokeball.f10bf078.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4dc15553.js",
+    "static/js/2.70e3ab64.chunk.js",
+    "static/css/main.1c7acd1f.chunk.css",
+    "static/js/main.a53af1fa.chunk.js"
+  ]
+}
